@@ -21,13 +21,6 @@ This is a simple and efficient **Book Recommendation System** that suggests simi
 
 ## 📂 Dataset
 
-The system works on a dataset containing book metadata such as:
-
-- Book Title
-- Author
-- Genre/Tags
-- Summary/Description (optional)
-
 You can use dataset:
 - [Book recommendation Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset/data)
   
